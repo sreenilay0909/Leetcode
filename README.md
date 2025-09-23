@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sreenilay0909/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/sreenilay0909/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
+| [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/sreenilay0909/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
 | ------- |
