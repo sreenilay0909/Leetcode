@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/sreenilay0909/Leetcode/tree/master/1250-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/sreenilay0909/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
