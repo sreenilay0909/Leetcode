@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sreenilay0909/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sreenilay0909/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/sreenilay0909/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -61,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
