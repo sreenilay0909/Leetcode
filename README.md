@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
