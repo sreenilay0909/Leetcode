@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sreenilay0909/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
