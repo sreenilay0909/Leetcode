@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sreenilay0909/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/sreenilay0909/Leetcode/tree/master/0221-maximal-square) |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sreenilay0909/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/sreenilay0909/Leetcode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
@@ -83,8 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sreenilay0909/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
