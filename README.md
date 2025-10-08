@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sreenilay0909/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
