@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1839-decode-xored-array](https://github.com/sreenilay0909/Leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1839-decode-xored-array](https://github.com/sreenilay0909/Leetcode/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sreenilay0909/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
