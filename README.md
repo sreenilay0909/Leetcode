@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sreenilay0909/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/sreenilay0909/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreenilay0909/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sreenilay0909/Leetcode/tree/master/0120-triangle) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sreenilay0909/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreenilay0909/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/sreenilay0909/Leetcode/tree/master/0097-interleaving-string) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/sreenilay0909/Leetcode/tree/master/0130-surrounded-regions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sreenilay0909/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
