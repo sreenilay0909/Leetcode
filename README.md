@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sreenilay0909/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sreenilay0909/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/sreenilay0909/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/sreenilay0909/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sreenilay0909/Leetcode/tree/master/0136-single-number) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 ## Depth-First Search
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sreenilay0909/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
