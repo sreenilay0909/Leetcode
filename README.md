@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sreenilay0909/Leetcode/tree/master/0724-find-pivot-index) |
 | [0941-valid-mountain-array](https://github.com/sreenilay0909/Leetcode/tree/master/0941-valid-mountain-array) |
+| [1470-shuffle-the-array](https://github.com/sreenilay0909/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1839-decode-xored-array](https://github.com/sreenilay0909/Leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
