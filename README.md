@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sreenilay0909/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreenilay0909/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/sreenilay0909/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sreenilay0909/Leetcode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/sreenilay0909/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sreenilay0909/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/sreenilay0909/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sreenilay0909/Leetcode/tree/master/1051-height-checker) |
@@ -165,5 +167,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/sreenilay0909/Leetcode/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
