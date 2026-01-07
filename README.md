@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreenilay0909/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sreenilay0909/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreenilay0909/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sreenilay0909/Leetcode/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/sreenilay0909/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sreenilay0909/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreenilay0909/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sreenilay0909/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sreenilay0909/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/sreenilay0909/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/sreenilay0909/Leetcode/tree/master/1089-duplicate-zeros) |
