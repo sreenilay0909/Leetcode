@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sreenilay0909/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/sreenilay0909/Leetcode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/sreenilay0909/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sreenilay0909/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
