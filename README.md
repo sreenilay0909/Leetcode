@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreenilay0909/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sreenilay0909/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sreenilay0909/Leetcode/tree/master/0041-first-missing-positive) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreenilay0909/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/sreenilay0909/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sreenilay0909/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sreenilay0909/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreenilay0909/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/sreenilay0909/Leetcode/tree/master/0561-array-partition) |
 ## Trie
 |  |
