@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sreenilay0909/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/sreenilay0909/Leetcode/tree/master/0097-interleaving-string) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sreenilay0909/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sreenilay0909/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sreenilay0909/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
