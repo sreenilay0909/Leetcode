@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sreenilay0909/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sreenilay0909/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sreenilay0909/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0583-delete-operation-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sreenilay0909/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/sreenilay0909/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sreenilay0909/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sreenilay0909/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Hash Table
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sreenilay0909/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sreenilay0909/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sreenilay0909/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/sreenilay0909/Leetcode/tree/master/1839-decode-xored-array) |
