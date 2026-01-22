@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sreenilay0909/Leetcode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreenilay0909/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreenilay0909/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -245,4 +248,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sreenilay0909/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
