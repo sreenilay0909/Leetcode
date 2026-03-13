@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/sreenilay0909/Leetcode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/sreenilay0909/Leetcode/tree/master/0322-coin-change) |
 ## Matrix
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/sreenilay0909/Leetcode/tree/master/0130-surrounded-regions) |
 ## Union Find
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
