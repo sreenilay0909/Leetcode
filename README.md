@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/sreenilay0909/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/sreenilay0909/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/sreenilay0909/Leetcode/tree/master/0097-interleaving-string) |
