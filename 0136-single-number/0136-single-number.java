@@ -1,13 +1,9 @@
-
 class Solution {
     public int singleNumber(int[] nums) {
-        int count=0;
-        int len=nums.length;
-        for(int i=0; i<len; i++) {
-            count = count^nums[i];
+        int res=0;
+        for(int i=0;i<nums.length;i++){
+            res=res^nums[i];
         }
-        return count;
+        return res;
     }
 }
-
-
