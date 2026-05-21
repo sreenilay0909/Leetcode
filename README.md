@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreenilay0909/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreenilay0909/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sreenilay0909/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/sreenilay0909/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/sreenilay0909/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/sreenilay0909/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/sreenilay0909/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sreenilay0909/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sreenilay0909/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sreenilay0909/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/sreenilay0909/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1610-xor-operation-in-an-array](https://github.com/sreenilay0909/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/sreenilay0909/Leetcode/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sreenilay0909/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreenilay0909/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/sreenilay0909/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sreenilay0909/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/sreenilay0909/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreenilay0909/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/sreenilay0909/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
