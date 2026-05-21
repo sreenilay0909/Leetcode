@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/sreenilay0909/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1839-decode-xored-array](https://github.com/sreenilay0909/Leetcode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sreenilay0909/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/sreenilay0909/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2262-solving-questions-with-brainpower](https://github.com/sreenilay0909/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sreenilay0909/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/sreenilay0909/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreenilay0909/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
