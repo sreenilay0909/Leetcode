@@ -1,15 +1,14 @@
 class Solution {
-    public int[] plusOne(int[] p) {
-        int n=p.length;
+    public int[] plusOne(int[] a) {
+        int n= a.length;
         for(int i=n-1;i>=0;i--){
-            if(p[i]+1!=10){
-                p[i]+=1;
-                return p;
-            }
-            p[i]=0;
+            if(a[i]<9){
+                a[i]++;
+                return a;
+            } else a[i]=0;
         }
-        int[] newnum=new int[n+1];
-        newnum[0]=1;
-        return newnum;
+        int[] x= new int[n+1];
+        x[0]=1;
+        return x;
     }
 }
