@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/sreenilay0909/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sreenilay0909/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sreenilay0909/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/sreenilay0909/Leetcode/tree/master/0097-interleaving-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sreenilay0909/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sreenilay0909/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreenilay0909/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreenilay0909/Leetcode/tree/master/0067-add-binary) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sreenilay0909/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreenilay0909/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sreenilay0909/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/sreenilay0909/Leetcode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/sreenilay0909/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sreenilay0909/Leetcode/tree/master/0169-majority-element) |
